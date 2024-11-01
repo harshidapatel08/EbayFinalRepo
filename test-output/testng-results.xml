@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-01T22:44:40Z" name="Suite" finished-at="2024-11-01T22:46:30Z" duration-ms="109568">
+    <groups>
+    </groups>
+    <test started-at="2024-11-01T22:44:40Z" name="Test" finished-at="2024-11-01T22:46:30Z" duration-ms="109568">
+      <class name="testCases.HelpAndContactsPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.HelpAndContactsPageTest@33990a0c]" started-at="2024-11-01T22:45:08Z" name="setUp" finished-at="2024-11-01T22:45:16Z" duration-ms="8454" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="searchBoxAndSearchBtnTest()[pri:0, instance:testCases.HelpAndContactsPageTest@33990a0c]" started-at="2024-11-01T22:45:16Z" name="searchBoxAndSearchBtnTest" finished-at="2024-11-01T22:45:37Z" duration-ms="21189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchBoxAndSearchBtnTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.HelpAndContactsPageTest@33990a0c]" started-at="2024-11-01T22:45:37Z" name="tearDown" finished-at="2024-11-01T22:45:38Z" duration-ms="523" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.HelpAndContactsPageTest@33990a0c]" started-at="2024-11-01T22:45:38Z" name="setUp" finished-at="2024-11-01T22:45:45Z" duration-ms="6656" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyCustomerServiceTitleTest()[pri:0, instance:testCases.HelpAndContactsPageTest@33990a0c]" started-at="2024-11-01T22:45:45Z" name="verifyCustomerServiceTitleTest" finished-at="2024-11-01T22:45:45Z" duration-ms="27" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCustomerServiceTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.HelpAndContactsPageTest@33990a0c]" started-at="2024-11-01T22:45:45Z" name="tearDown" finished-at="2024-11-01T22:45:45Z" duration-ms="488" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.HelpAndContactsPageTest@33990a0c]" started-at="2024-11-01T22:45:45Z" name="setUp" finished-at="2024-11-01T22:45:52Z" duration-ms="6791" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyebayLogoTest()[pri:0, instance:testCases.HelpAndContactsPageTest@33990a0c]" started-at="2024-11-01T22:45:52Z" name="verifyebayLogoTest" finished-at="2024-11-01T22:45:54Z" duration-ms="2023" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyebayLogoTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.HelpAndContactsPageTest@33990a0c]" started-at="2024-11-01T22:45:54Z" name="tearDown" finished-at="2024-11-01T22:45:55Z" duration-ms="726" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.HelpAndContactsPageTest@33990a0c]" started-at="2024-11-01T22:45:55Z" name="setUp" finished-at="2024-11-01T22:46:02Z" duration-ms="7150" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifysrTitleTest()[pri:0, instance:testCases.HelpAndContactsPageTest@33990a0c]" started-at="2024-11-01T22:46:02Z" name="verifysrTitleTest" finished-at="2024-11-01T22:46:02Z" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifysrTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.HelpAndContactsPageTest@33990a0c]" started-at="2024-11-01T22:46:02Z" name="tearDown" finished-at="2024-11-01T22:46:02Z" duration-ms="485" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.HelpAndContactsPageTest -->
+      <class name="testCases.DealsPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.DealsPageTest@4de4b452]" started-at="2024-11-01T22:46:02Z" name="setUp" finished-at="2024-11-01T22:46:08Z" duration-ms="5964" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyDealsPageTitleTest()[pri:0, instance:testCases.DealsPageTest@4de4b452]" started-at="2024-11-01T22:46:08Z" name="verifyDealsPageTitleTest" finished-at="2024-11-01T22:46:11Z" duration-ms="3026" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDealsPageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.DealsPageTest@4de4b452]" started-at="2024-11-01T22:46:11Z" name="tearDown" finished-at="2024-11-01T22:46:12Z" duration-ms="621" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.DealsPageTest@4de4b452]" started-at="2024-11-01T22:46:12Z" name="setUp" finished-at="2024-11-01T22:46:18Z" duration-ms="6538" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyDealsTest()[pri:0, instance:testCases.DealsPageTest@4de4b452]" started-at="2024-11-01T22:46:18Z" name="verifyDealsTest" finished-at="2024-11-01T22:46:21Z" duration-ms="2371" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDealsTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.DealsPageTest@4de4b452]" started-at="2024-11-01T22:46:21Z" name="tearDown" finished-at="2024-11-01T22:46:22Z" duration-ms="732" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.DealsPageTest@4de4b452]" started-at="2024-11-01T22:46:22Z" name="setUp" finished-at="2024-11-01T22:46:28Z" duration-ms="6593" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifySearchBox()[pri:0, instance:testCases.DealsPageTest@4de4b452]" started-at="2024-11-01T22:46:28Z" name="verifySearchBox" finished-at="2024-11-01T22:46:29Z" duration-ms="1051" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchBox -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.DealsPageTest@4de4b452]" started-at="2024-11-01T22:46:29Z" name="tearDown" finished-at="2024-11-01T22:46:30Z" duration-ms="600" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.DealsPageTest -->
+      <class name="testCases.HomePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.HomePageTest@15aab8c6]" started-at="2024-11-01T22:44:40Z" name="setUp" finished-at="2024-11-01T22:44:46Z" duration-ms="6122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyHomePageTitleTest()[pri:0, instance:testCases.HomePageTest@15aab8c6]" started-at="2024-11-01T22:44:46Z" name="verifyHomePageTitleTest" finished-at="2024-11-01T22:44:46Z" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.HomePageTest@15aab8c6]" started-at="2024-11-01T22:44:46Z" name="tearDown" finished-at="2024-11-01T22:44:47Z" duration-ms="618" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.HomePageTest@15aab8c6]" started-at="2024-11-01T22:44:47Z" name="setUp" finished-at="2024-11-01T22:44:51Z" duration-ms="4198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyUsernameTest()[pri:0, instance:testCases.HomePageTest@15aab8c6]" started-at="2024-11-01T22:44:51Z" name="verifyUsernameTest" finished-at="2024-11-01T22:45:01Z" duration-ms="9349" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUsernameTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.HomePageTest@15aab8c6]" started-at="2024-11-01T22:45:01Z" name="tearDown" finished-at="2024-11-01T22:45:01Z" duration-ms="512" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.HomePageTest@15aab8c6]" started-at="2024-11-01T22:45:01Z" name="setUp" finished-at="2024-11-01T22:45:05Z" duration-ms="4300" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="writeInSearchBoxTest()[pri:0, instance:testCases.HomePageTest@15aab8c6]" started-at="2024-11-01T22:45:05Z" name="writeInSearchBoxTest" finished-at="2024-11-01T22:45:07Z" duration-ms="1672" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- writeInSearchBoxTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.HomePageTest@15aab8c6]" started-at="2024-11-01T22:45:07Z" name="tearDown" finished-at="2024-11-01T22:45:08Z" duration-ms="694" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.HomePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
